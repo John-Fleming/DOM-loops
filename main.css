@@ -1,3 +1,16 @@
 body {
     background-color: cadetblue;
 }
+
+#dino-barn {
+    display: flex;
+}
+
+.dinosaur {
+    border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5%;
+    width: 10%;
+    text-align: center;
+}
